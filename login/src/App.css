@@ -1,0 +1,98 @@
+
+
+
+
+#craet-table {
+  margin-top: 50px;
+  width: 100%;
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+#craet-table td tr {
+
+
+  height: 75px;
+}
+
+#craet-table tr p {
+  line-height: 7px;
+}
+
+#craet-table input {
+  width: 350px;
+
+}
+
+
+/*------------------New-student----------------------*/
+
+#student {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  /* border: solid red 2px ; */
+  width: 100%;
+}
+
+.heding {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: 5rem;
+  /* border: solid red 2px; */
+
+
+}
+
+.radio {
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+
+
+}
+
+/* --------------------------History------------------------- */
+#set {
+  width: 80%;
+}
+
+.icon {
+
+  padding-left: 30px;
+
+  width: 100%;
+
+}
+
+/* --------------------------History------------------------- */
+#search {
+  width: 250px;
+  float: right;
+  border-right: none;
+  /* margin-right: 70px; */
+}
+
+#searchicon {
+  float: right;
+
+  margin-right: 70px;
+}
+
+.page-btn{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
